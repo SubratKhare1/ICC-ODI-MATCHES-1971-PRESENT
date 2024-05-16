@@ -1,4 +1,4 @@
-# ODI-MATCHES-1971-PRESENT [Power BI |Excel | Dax Studio]
+# ODI-CRICKET-THROUGH-THE-DECADES [Power BI |Excel | Dax Studio]
 
 Embark on a cricketing journey spanning 1971 to present with our project. Unveil captivating dashboards revealing match stats, team records, player achievements, and rankings, capturing the essence of ODI cricket in just a click.
 
