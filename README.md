@@ -1,4 +1,4 @@
-# ICC-ODI-MATCHES-1971-PRESENT [Power BI |Excel]
+# ODI-MATCHES-1971-PRESENT [Power BI |Excel]
 
 1) Developed a versatile Power BI Dashboard to analyse worldwide ODI cricket matches spanning from 1971 to the present, aggregating data from various sources.
 2) Presenting key metrics and insights related to the ODI cricket matches worldwide.
